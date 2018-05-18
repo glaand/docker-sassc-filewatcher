@@ -1,3 +1,5 @@
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-glaand%2Fsassc--filewatcher-blue.svg)](https://hub.docker.com/r/glaand/sassc-filewatcher/)
+
 # Docker SASSC image with filewatcher (inotifywait)
 
 This is a tiny (8MB) docker image containing the SassC binary with inotifywait as a filewatcher.
